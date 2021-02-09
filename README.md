@@ -48,3 +48,6 @@ WebSocket.prototype.send = function(a) {
           this._send(a);
 };
 
+# Additional info
+make sure to add proxies to the proxies.txt or else theyll get banned!
+
